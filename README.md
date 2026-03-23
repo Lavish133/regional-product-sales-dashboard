@@ -22,21 +22,11 @@ This project analyzes regional product sales data and presents insights through 
 - Data Cleaning
 
 ##  Project Screenshots
-
-### Dashboard Overview
-![Dashboard](Image/IMG-DASHBOARD.png)
-
-### Sales by Region
-![Sales](Image/IMG-KEY 1.png)
-
-### Sales Trend
-![Trend](Image/IMG-KEY 2.png)
-
-### Salesperson Performance
-![Performance](Image/IMG-KEY 3.png)
-
-### Top Products
-![Products](Image/IMG-KEY 4.png)
+- Dashboard Overview
+- Sales by Region
+- Sales Trend
+- Salesperson Performance
+- Top Products
 
 ## Objective
 To transform raw sales data into meaningful business insights using Excel.
